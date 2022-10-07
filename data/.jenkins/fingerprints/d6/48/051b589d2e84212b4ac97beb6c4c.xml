@@ -1,0 +1,29 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-10-02 15:21:00.973 UTC</timestamp>
+  <md5sum>d648051b589d2e84212b4ac97beb6c4c</md5sum>
+  <fileName>Credential id=10.10.1.253 name=ec2-user (ec2-user)</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1143.vb_e8b_b_ceee347">
+      <timestamp>1664990235340</timestamp>
+      <nodeName>qa-b</nodeName>
+      <timestamp0>1664988436044</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1143.vb_e8b_b_ceee347">
+      <timestamp>1664990235333</timestamp>
+      <nodeName>dev-b</nodeName>
+      <timestamp0>1664988436055</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1143.vb_e8b_b_ceee347">
+      <timestamp>1664990235321</timestamp>
+      <nodeName>dev-a</nodeName>
+      <timestamp0>1664988436061</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@1143.vb_e8b_b_ceee347">
+      <timestamp>1664990235314</timestamp>
+      <nodeName>qa-a</nodeName>
+      <timestamp0>1664988436066</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

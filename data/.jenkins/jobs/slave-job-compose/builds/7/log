@@ -1,0 +1,199 @@
+Started by user [8mha:////4GRJYggG2fpbCwk/G4Trz5J+0q5PCZ0zdm+O75UjzZ7lAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgY+/dLi1CL9stSc/OTMkkoAqhyg4cMAAAA=[0mservice-velocity
+[8mha:////4Pr4QgWuuLTjcjKZGat78EK5eHZd0QbCNuoNV0y9EYNHAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4FkmuV9lUQ2umjEZJZyHIIG5Kmmtv3qHw38TMrUCF7jdAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] stage
+[8mha:////4JDJxProocqkG4SrKdy9E+HWXNNAv0HohES4sdeIagFEAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] { (parallel-stages)
+[8mha:////4OIEt0cW4OU+5pxECn1HYGMJZ1KeEZ01WfBah5AksdkTAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] parallel
+[8mha:////4NdNP6wUtNbE3eySocEojOWRQ6r4aJMMOQItEfGMRXoWAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0YkCIiTXKwglCEkLa6P82SWknTsTVuAOBSkxYsmRbst7zBXWKcKToeGux85i0530YXUl8othdA028pQvXhImC5dJOkow9LVVStrCIVbASsLaoAyWPLsNGtOqumqDQNeccy3YQUHkzwAOYKOSsYv6WOcL2NppE+OP8BcDcZ2C74v3nV78BcVxe4MAAAAA=[0m[Pipeline] { (Branch: Dev-a)
+[8mha:////4OjQZXARqI8VPXiSvEAUqRVpAv75EroRKiQ/y+5sRS1rAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDBRWiorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INdjukkMEAAAA=[0m[Pipeline] { (Branch: Dev-b)
+[8mha:////4MYiEE3smTi4sWvhd1cUmnwTcLa2YVBkfeQ7WFanON4OAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BKWgpeYSjFFSIitZywwtMbIwT6y7YF5KKF/E1/oAhEhVb7ay0mucLqhThQNGJzmLvMbVeDGF0uYmJYn8JNImOzqIlTBSsUHZSZOxxQUVsYUlRwkrC2mIbKHl0DBvZ6buug0ZXnzjmbS+h9OYGDyhkNrOO/IU5wvY6mkT48/wVwDwwFDuGsmk+x+oN0+j4W8EAAAA=[0m[Pipeline] { (Branch: Qa-a)
+[8mha:////4Cz8XkR7FAwsZA4B8G/IU2BWaYZFXy7nxI/JGNIhxgtCAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjkKgQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHIHYMxWb7OZZvfZps3cEAAAA=[0m[Pipeline] { (Branch: Qa-b)
+[8mha:////4KLfAv360pLPSsHiJW9n7g+A3Fg9K3r+WAahMdqk1B+sAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjRIUQFa3lhheY2Bgn1l2wLyQVL+Jr/IFAJCq22llpNc8XlDnBgZKXjcM2YK6D7GLvpyYHSu0l0iAbOsuaMFN0UrtBk3XHGTWxgzmigIWCpcM6Ug7oGVaqMXdTRYO+OnGatr2CItgbPECoycwm8RfGBOtrbzPhz/NXAGPHIHYMxWb7OZZvH9sqHMEAAAA=[0m[Pipeline] stage
+[8mha:////4NfxvwmhUmkn3AFVLan/PiORmeBL00stTB8Mg7TrCscPAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] { (Dev-a)
+[8mha:////4BcEacod8SGV/QrVQvs+UmKKULmPjeQI2dPKl59fGh5CAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUBibE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dvd7Md5mfxARfjIUfCAAAA[0m[Pipeline] stage
+[8mha:////4DgfZCiQbF7YUnjGReUJoxv+d/eY+8tbLU+fZwmLc6fgAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/s94rDCAAAA[0m[Pipeline] { (Dev-b)
+[8mha:////4KIO1wQe9urMmDn653h+2ly7dUEr641rHD0jsFFePj2gAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUnRgQE2uUhROEJoSk0f9tkpJOnIircQdaKjHhwbItWe/1hioGOFEwzGnsLMbWst6PZk4sU+hunjJzdGUtYSSvmdBZkNLntQpKGlYVJWw4bDW2nqJFk2DHnXzI2ks09SWFeTtyKK0a4AkFn8lJhvQtU4D9fVSR8Mf5C4CpT1A2zWKH5Vl9ANydZ8vCAAAA[0m[Pipeline] stage
+[8mha:////4EU9cU/vF27HW2+zLrf3b0tTRVAYqxidhXbgjRdxe/ByAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUTCAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0rlhNLCAAAA[0m[Pipeline] { (Qa-a)
+[8mha:////4MAND1rVwNOS97oiaL/3Fu/Npb4IgmQq2S51tuKsZpVGAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUsCHE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAa2aj2jCAAAA[0m[Pipeline] stage
+[8mha:////4IK1BsuVHveh9nLLqNmJi8Uxb1R0p31kZc2//m0RbG4SAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogU2BDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrN7xWSV3CAAAA[0m[Pipeline] { (Qa-b)
+[8mha:////4Pc6cuoaLswG9QG8GCxasMtOie5Ibca/8nPao6IOFSk5AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohURWyIqWvUhROEJoSk0f8lSUknTsTVuAOBSkx4sGxL1nu+oAoejuQ1swoHg6E3bHSTzokl8sPFUWKWzqwnDOQU61TqSKp2qR1FBYuKElYc1gp7R8GgjrDhVtxF7QTq+hR93g4cSiNv8ICCZ3IUPn7L7GF7nWQg/HH+AmAeI5TNPtuu+TyrNx7IgV3CAAAA[0m[Pipeline] node
+[8mha:////4APTgRIsInFEN9qJqJ1G3Sm3F+Qt72chD5zl8+mRzY9+AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUdGBBTF2jLJwgJCGkjf4vSUo7cSKuxh0IVGLCg2Vbst7zBVUMcKRgWWewdxiVY4MfbU5sotBfPE2sozNThJG8YcJMgrRplyooGVhUlLDisDaoPEWHNsGGd/Iuay/R1qcU8nbgUDp9gwcUPJOTDOlb5gDb66gj4Y/zFwDzkKDc7bM1zedZvQFxA3mDwgAAAA==[0m[Pipeline] node
+Running on [8mha:////4L3JRDG8QVuzOYxwi8aMyjtH1F66izSN8FSlI4E18GD/AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAxWoBn6yfm5BaUlqUX6KallqkYuifoAOqAFHscAAAA=[0mdev-a in /mnt/workspace/slave-job-compose
+[8mha:////4NO1YPSUwNIil7d6118h47sdr7Aa/I+pj7Mle/lgIQjbAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIKEOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK52Wfb7j7P6g3S+1MawgAAAA==[0m[Pipeline] node
+Running on [8mha:////4JjNRzVrjPamYPmTB0qROCvrBer5FziGYOZa9I8Yhni6AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAxWoBn6yfm5BaUlqUX6KallqkYuSfoA+fMoNccAAAA=[0mdev-b in /mnt/workspace/slave-job-compose
+[8mha:////4Lg+EbeSYPhiTgElH6SL/Hss44Z3gvTqSJZIvIHL8++FAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUITbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dvd7Md5mfxAd/4C8rCAAAA[0m[Pipeline] node
+Running on [8mha:////4Ia8wGSPXtRjfTFR9qbPx+j9oed5ypFmeQgNLTamLJVWAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgZB/eT83ILSktQi/cJEVSOXRH0At/+FS8YAAAA=[0mqa-a in /mnt/workspace/slave-job-compose
+[8mha:////4MVGaD6WKb5IAU0Fw9+NvWFJ4hiCnSAheIgyT0jY9ADdAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUIDEhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8v5vtMD+LD7r02cDCAAAA[0m[Pipeline] {
+[8mha:////4LanJ+g0GwpX31NLz6rEuKIm2oU8tnYXmiVdXmaKlCS6AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohU6sCCmFijLJwgNCEkjf5vk5R04kRcjTvQUokJD5ZtyXqvN1QxwImCYU5jZzG2lvV+NHNimUJ385SZoytrCSN5zYTOgpQ+r1VQ0rCqKGHDYaux9RQtmgQ77uRD1l6iqS8pzNuRQ2nVAE8o+ExOMqRvmQLs76OKhD/OXwBMfYKyaRY7LM/qAxXgr9/CAAAA[0m[Pipeline] {
+[8mha:////4L8QJn1QT8xrbiiWVyIOcUWZTRfDlh2ndqE7ka/wbXF8AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUgoEBMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfABw7H3VwgAAAA==[0m[Pipeline] {
+[8mha:////4Knhfa3jyAF2v4v4aHLud2lG9iKQqzZoVefCfzkf2dZyAAAAqB+LCAAAAAAAAP9tjUEKwjAURH8rXbh16SFSEARBXHUbsvEEsYkxbfi//qS2K0/k1byDrQVXzmKYGRje6w1FZDgRO9FYbD3G2osu9G5KYiBur4EG0dBF1ISRghXKDoqMrZaqKFlYlOWwkrC2WAeKHl2CjWz0Q5dBoyvPiaftKCH35g5PyORETprTt4wM21tvIuGP8xcAY5cg3+1nO8zP4gPmlJ7MwgAAAA==[0m[Pipeline] ws
+Running in /mnt/docker-war
+[8mha:////4L79njZ4T6By1I55SKCcnLNK/GRqXHN+ALcL5TahNgC0AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUYgIhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0QKVszCAAAA[0m[Pipeline] {
+[8mha:////4D7Oxa2hwlfm48aJ0pIBIP2nS2crm/nMlt1QThbEvGHQAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUgcSCOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g0+e1gfwgAAAA==[0m[Pipeline] ws
+Running in /mnt/docker-war
+[8mha:////4ExTTOueNhX8K2CwnwtrKMnVmrHXKI++HXy1YuoZrDQ7AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] {
+[8mha:////4FZ0IBeRZAj/U4YbEZJLHGIw1/6NxY/rucDcFmItq4BTAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUKgMDYuoadeEEoQkhafR/SVLSiRNxNe5AoBITHizbkvWeL6iChyN5zazCwWDoDRvdpHNiifxwcZSYpTPrCQM5xTqVOpKqXWpHUcGiooQVh7XC3lEwqCNsuBV3UTuBuj5Fn7cDh9LIGzyg4JkchY/fMnvYXicZCH+cvwCYxwhls8+2az7P6g31BR6TwgAAAA==[0m[Pipeline] ws
+Running in /mnt/docker-war
+[8mha:////4HtwO+R2ZgECVy/65E0Fgbvi7nLYrNSnqfNIsyUv0azdAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUoiNiYo26cILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMYAJwqGO42dxdha3vvRzIlnCt3NU+aOrrwljOQ1b3RuSOnzWhtKGlYVDDYCthpbT9GiSbATTj5k5SWa6pLCvB0FMKsGeEIhZnKSIX3LFGB/H1Uk/HH+AmDqE7D6sFi9PMsPfTawssIAAAA=[0m[Pipeline] {
+Running on [8mha:////4KOAI8K0rW2YFjio2HjeiQijZSIAYY8LDwa+YVI4FWgCAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgZB/eT83ILSktQi/cJEVSOXJH0AdKyoYMYAAAA=[0mqa-b in /mnt/workspace/slave-job-compose
+[8mha:////4A/oUT9UfYSQ2Jsw9MK1pNVS6KHiJ6+CsUJQUFmw7U+9AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUgm6IqWuUhROEJIS00f8lSWknTsTVuAOBSkx4sGxL1nu+oIoBjhQs6wz2DqNybPCjzYlNFPqLp4l1dGaKMJI3TJhJkDbtUgUlA4uKElYc1gaVp+jQJtjwTt5l7SXa+pRC3g4cSqdv8ICCZ3KSIX3LHGB7HXUk/HH+AmAeEpS7Jtu++TyrN+mApdzCAAAA[0m[Pipeline] {
+[8mha:////4KaxOZLLhA/y5Z7TeLFR+fd4GpHiIfxrgOeVc5qwxqWXAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0ACbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASMfXIzCAAAA[0m[Pipeline] ws
+Running in /mnt/docker-war
+[8mha:////4L+IL5QeHAA2GuYcOdJIJEwb66Izkpr1UHl2Yh/WFDNTAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD02yRsvCAAAA[0m[Pipeline] {
+[8mha:////4LypbBOmlpvZ5h4FjyzRe2avnCCTJUOo/EvY3Q/689h2AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiQYEQSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANEcrtIdduP3wACmv49r4AAAA=[0m[Pipeline] sh
+[8mha:////4MvaThCuhYNa9wUNbsejar222SzRmR7BrBAfKVhMR74bAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiRIOEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK3/dQ+vAE8OSWOvgAAAA==[0m[Pipeline] sh
+[8mha:////4PnTxZ4OHKrw8C1GHBwrYOgpp0tnhrgGLSUwkXzBdEV0AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSpHIcK1uGxhNggghh/idAJJUn8mreQTQzVm6xs2+b93zBOgY4UtDMKhwMxs4w7yZdFssUhqujzCxdWEcYySkmVBbUq9OCgpKCJVUNKw4bhZ2jaFAn2HIr77JxEnVzTqF8Bw616Ud4QMWLOcmQvjAH2N2mPhL+PH8FMPsEddt+au/fVBmhAL4AAAA=[0m[Pipeline] sh
+[8mha:////4Huoeex+RabbjMhrBthFvknU9j5IdQ21bwOU5kBRVVcWAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBKJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKYhQrk75Npvhw8/mxSGvgAAAA==[0m[Pipeline] sh
++ sudo systemctl start docker
++ sudo systemctl start docker
++ sudo systemctl start docker
+[8mha:////4Kr1sM0QRpEmU83IwP6tFRajR5rjvI5N7LEwJdR137PsAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEA1CqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKYhQrk75Npvhw8J2u2lvgAAAA==[0m[Pipeline] sh
+[8mha:////4Lcg3lSHUYui+/IwMX5j8g1DBCE1SfWhfEqU11KjTYDPAAAApR+LCAAAAAAAAP9tjTsOwjAQRDdBFLSUHGIjPh1KRWu54QQmMcaJtRtsB6fiRFyNO2ARiYopRvOmea83LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDREKPfbXIfd8AEzx4VxvgAAAA==[0m[Pipeline] sh
+[8mha:////4Lvpfm7O18UQczjg9c8XpZ4Fbx/n5cE9MowMQi1WkWd1AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIpQoeoaC03vMAkxtix7ox9Ial4EV/jD1hEomKL1c4283rDOic4UrLCGxwc5s6JGEZblpgoDddAk/B0ER1hpmCEMpOi3pwWVMQGllQ1rCRsDHaBskPLsJVeP3QTNNrmzKl8Bwm16+/whEoWM+vEX5gT7G5jnwl/nr8CmCND3bal9m38AFvnAf++AAAA[0m[Pipeline] sh
++ sudo docker-compose down
++ sudo systemctl start docker
++ sudo docker-compose down
++ sudo docker-compose down
+Stopping docker-war_tomcat_2 ... 
+Stopping docker-war_tomcat_1 ... 
+Stopping docker-war_tomcat_2 ... 
+Stopping docker-war_tomcat_1 ... 
+Stopping docker-war_tomcat_1 ... 
+Stopping docker-war_tomcat_2 ... 
+[2A[2KStopping docker-war_tomcat_2 ... [32mdone[0m[2B[1A[2KStopping docker-war_tomcat_1 ... [32mdone[0m[1BRemoving docker-war_tomcat_2 ... 
+Removing docker-war_tomcat_1 ... 
+[1A[2KRemoving docker-war_tomcat_1 ... [32mdone[0m[1B[2A[2KRemoving docker-war_tomcat_2 ... [32mdone[0m[2BRemoving network docker-war_default
+[8mha:////4LFMescyqm8NadZjKzgU+rlspGazy9KTeE9bXqEba6iaAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIpiGgQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAcw+Qbk/5Kpr/wE7XnjivgAAAA==[0m[Pipeline] sh
+[1A[2KStopping docker-war_tomcat_2 ... [32mdone[0m[1B[2A[2KStopping docker-war_tomcat_1 ... [32mdone[0m[2BRemoving docker-war_tomcat_1 ... 
+Removing docker-war_tomcat_2 ... 
+[2A[2KRemoving docker-war_tomcat_1 ... [32mdone[0m[2B[1A[2KRemoving docker-war_tomcat_2 ... [32mdone[0m[1BRemoving network docker-war_default
+[2A[2KStopping docker-war_tomcat_2 ... [32mdone[0m[2B[1A[2KStopping docker-war_tomcat_1 ... [32mdone[0m[1BRemoving docker-war_tomcat_2 ... 
+Removing docker-war_tomcat_1 ... 
+[2A[2KRemoving docker-war_tomcat_2 ... [32mdone[0m[2B[1A[2KRemoving docker-war_tomcat_1 ... [32mdone[0m[1BRemoving network docker-war_default
+[8mha:////4LgJL158/Y+QgTGVI6mbhZiIGK2YqgksAb/SVucW6R3LAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBFQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDREKHfbXPvD8AH0UcQ+vgAAAA==[0m[Pipeline] sh
+[8mha:////4Ec3/t+RRaxaH1+eYKsz4zHgLP8wkjKWWnxz76ZsbCQOAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIYSEUCpayw0vMIkxTqy7YDs4FS/ia/wBi0hUbLHa2WZeb1gGDzV7g52m3lJoLA5uNHlhYt9fHSfs+IINU2CnUeokudWnGSVHDXOKEhYCVpoax8GSibAWnXqoyiky1Tn6/B0FlLa9wxMKkc1R+fiFycPmNraB6ef5K4BpiFBuD7l2++EDzkys6r4AAAA=[0m[Pipeline] sh
++ sudo docker-compose down
+[8mha:////4H9T+pULz+bebiFRF/9sLVJgdBxmtHk+65LROTs5mlX/AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSBIkCUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2Ccq6zrU/+A9fIm2bvgAAAA==[0m[Pipeline] sh
++ sudo docker system prune -a -f
++ sudo docker system prune -a -f
++ sudo docker system prune -a -f
+Deleted Images:
+untagged: tomcat:9
+untagged: tomcat@sha256:cd9d4b7e2493d4f26b99c8475ab8789a3f797e9dd4407589f41760c40325be57
+deleted: sha256:8835bf4a8548302c30691fba4f68ad75fe6d1b9cc9e346277516b566d192c121
+deleted: sha256:ddc5f3e6923fe1b772fc77573a60ee0ef115f31342dcf84e014eb928c58028e9
+deleted: sha256:c44523d6df5ddf111a3ebe0a4d05e536edd94ac4f75c2c17a6edaba51ac11a4b
+deleted: sha256:72fb17ff2aa3b1f1622e34f72d3ccae7ae4f11b58305c3fa827824d0aaa4af35
+deleted: sha256:ddc4bb7a4fea3079e0c9fcb9fe63892b0a98c08f5da083d566ed351bb374a50e
+deleted: sha256:b4ef130e363246bbca0e6686e5b40224b14f57b39692f3cbfe7d824014cdc8be
+deleted: sha256:784e276e70cc32b65133107ec165733d2f166b799f1e7f45a34f7b087d4b4e98
+deleted: sha256:7f5cbd8cc787c8d628630756bcc7240e6c96b876c2882e6fc980a8b60cdfa274
+
+Total reclaimed space: 478.2MB
+[8mha:////4ASgmpDn+GdtmtZ0c8Y34RDE5RP/PnJKbiD5wQG2MZjUAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBAUSSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANEcrdNtf+MHwAuS9qi74AAAA=[0m[Pipeline] sh
+Deleted Images:
+untagged: tomcat:9
+untagged: tomcat@sha256:cd9d4b7e2493d4f26b99c8475ab8789a3f797e9dd4407589f41760c40325be57
+deleted: sha256:8835bf4a8548302c30691fba4f68ad75fe6d1b9cc9e346277516b566d192c121
+deleted: sha256:ddc5f3e6923fe1b772fc77573a60ee0ef115f31342dcf84e014eb928c58028e9
+deleted: sha256:c44523d6df5ddf111a3ebe0a4d05e536edd94ac4f75c2c17a6edaba51ac11a4b
+deleted: sha256:72fb17ff2aa3b1f1622e34f72d3ccae7ae4f11b58305c3fa827824d0aaa4af35
+deleted: sha256:ddc4bb7a4fea3079e0c9fcb9fe63892b0a98c08f5da083d566ed351bb374a50e
+deleted: sha256:b4ef130e363246bbca0e6686e5b40224b14f57b39692f3cbfe7d824014cdc8be
+deleted: sha256:784e276e70cc32b65133107ec165733d2f166b799f1e7f45a34f7b087d4b4e98
+deleted: sha256:7f5cbd8cc787c8d628630756bcc7240e6c96b876c2882e6fc980a8b60cdfa274
+
+Total reclaimed space: 478.2MB
+[8mha:////4Lcg7di/erulDoo66O0P654LovJwIhG2ldkT+rB2U7M1AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIZoIUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2Ccp9netQ+w8BUDRtvgAAAA==[0m[Pipeline] sh
+Deleted Images:
+untagged: tomcat:9
+untagged: tomcat@sha256:cd9d4b7e2493d4f26b99c8475ab8789a3f797e9dd4407589f41760c40325be57
+deleted: sha256:8835bf4a8548302c30691fba4f68ad75fe6d1b9cc9e346277516b566d192c121
+deleted: sha256:ddc5f3e6923fe1b772fc77573a60ee0ef115f31342dcf84e014eb928c58028e9
+deleted: sha256:c44523d6df5ddf111a3ebe0a4d05e536edd94ac4f75c2c17a6edaba51ac11a4b
+deleted: sha256:72fb17ff2aa3b1f1622e34f72d3ccae7ae4f11b58305c3fa827824d0aaa4af35
+deleted: sha256:ddc4bb7a4fea3079e0c9fcb9fe63892b0a98c08f5da083d566ed351bb374a50e
+deleted: sha256:b4ef130e363246bbca0e6686e5b40224b14f57b39692f3cbfe7d824014cdc8be
+deleted: sha256:784e276e70cc32b65133107ec165733d2f166b799f1e7f45a34f7b087d4b4e98
+deleted: sha256:7f5cbd8cc787c8d628630756bcc7240e6c96b876c2882e6fc980a8b60cdfa274
+
+Total reclaimed space: 478.2MB
+Removing network docker-war_default
+Network docker-war_default not found.
+[8mha:////4Lt8FJ2UAk3j1TQqIwZK3TtgguIU70lm/yo1S/Nc9N7QAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJBiqgQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAcw+QVnXuQ57/wGv3u7VvgAAAA==[0m[Pipeline] sh
++ sudo docker-compose up -d --scale tomcat=2
+[8mha:////4OvQlr5W//MlRqR2sVgYE9uNKRsIehWi4vjtoRqqs6QLAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKBBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKYhQrk75Npvhw9JwM2evgAAAA==[0m[Pipeline] sh
++ sudo docker-compose up -d --scale tomcat=2
++ sudo docker-compose up -d --scale tomcat=2
+Creating network "docker-war_default" with the default driver
++ sudo docker system prune -a -f
+Total reclaimed space: 0B
+[8mha:////4GBVtbNpChjpw5uIKnTNYcVPgvmZt37z4g10gMpKcP/IAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigaBBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKYhQrk75Npvhw+Kk+C1vgAAAA==[0m[Pipeline] sh
+Creating network "docker-war_default" with the default driver
+Pulling tomcat (tomcat:9)...
+Creating network "docker-war_default" with the default driver
++ sudo docker-compose up -d --scale tomcat=2
+Pulling tomcat (tomcat:9)...
+Pulling tomcat (tomcat:9)...
+Creating network "docker-war_default" with the default driver
+Pulling tomcat (tomcat:9)...
+9: Pulling from library/tomcat
+9: Pulling from library/tomcat
+9: Pulling from library/tomcat
+9: Pulling from library/tomcat
+Digest: sha256:cd9d4b7e2493d4f26b99c8475ab8789a3f797e9dd4407589f41760c40325be57
+Status: Downloaded newer image for tomcat:9
+The "tomcat" service specifies a port on the host. If multiple containers for this service are created on a single host, the port will clash.
+Creating docker-war_tomcat_1 ... 
+Creating docker-war_tomcat_2 ... 
+Digest: sha256:cd9d4b7e2493d4f26b99c8475ab8789a3f797e9dd4407589f41760c40325be57
+Status: Downloaded newer image for tomcat:9
+The "tomcat" service specifies a port on the host. If multiple containers for this service are created on a single host, the port will clash.
+Creating docker-war_tomcat_1 ... 
+Creating docker-war_tomcat_2 ... 
+[2A[2KCreating docker-war_tomcat_1 ... [32mdone[0m[2B[1A[2KCreating docker-war_tomcat_2 ... [32mdone[0m[1B
+[8mha:////4AI+6grVtotdKLBXOXXvWbxHAQdo9OFY0D8NshAFgIJ0AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIRiqgQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAczeJygPda56/wEQowAhvgAAAA==[0m[Pipeline] }
+[8mha:////4Nlbg1INIAwHtSqhX8YhRjo/kEIDubYeO0q5eZYkU+AdAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCBFQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrDPtdu+wE+owJLvgAAAA==[0m[Pipeline] // ws
+[8mha:////4AjB3LlE7/BtMANhoAEXlXrXJTHYat2caDXgD7IcKge0AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMKRkEKDqNJaaXiBiQ/jxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgRI80WIqdFd6NJi8xcRiujifR80V0TJEdihanljU2C7acEJYUJawkbJA6x9GSSbCVvXqoyiky1TmF/B0llFbf4QmFzOakQvrCHGB3G3Vk+nn+CmD2PkFZ17n2hw/v5CZwvgAAAA==[0m[Pipeline] }
+[8mha:////4CF0j8mARoAlFRwbTmAdHmuq+20zYZRqQt6bhtcjjqLpAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiRYIGUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkG5P+Sq6w9YUt/xvgAAAA==[0m[Pipeline] // node
+[8mha:////4GsD9WDDQYAdwBjB9Dll2yB8a4A3nsc1ikytXYbDMlHKAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCqBAqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDuDrm2+w8nFsMWvgAAAA==[0m[Pipeline] }
+[8mha:////4EgU1zR7vhBYK+tCeMTNTBTbL4RbhmLFzkhIjKDEZ3LLAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIRRSQkRJXWSsMLTHwYJ9adsR2SihfxNf6ARSQqtljtbDOvN6xjgBMHI3qkwVLsrPBuNHmJicNwdTyJni+iY4rsULQ4tayxWbDlhLCkKGElYYPUOY6WTIKt7NVDVU6Rqc4p5O8oobT6Dk8oZDYnFdIX5gC726gj08/zVwCz9wnK+pBrX38ASPWcfr4AAAA=[0m[Pipeline] // stage
+[8mha:////4PVW2aguLQ64YdZdjoL8MiTp3oCKI25rX85elPzPhoH1AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBQVCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDuD7l22w9i0qrFvgAAAA==[0m[Pipeline] }
+[2A[2KCreating docker-war_tomcat_1 ... [32mdone[0m[2B[1A[2KCreating docker-war_tomcat_2 ... [32mdone[0m[1B
+[8mha:////4E1ugM0ihw4FfRn5ISs/+puXApixV517K4aOlg2rYkcRAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCKJAQSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAUHK8gb4AAAA=[0m[Pipeline] }
+Digest: sha256:cd9d4b7e2493d4f26b99c8475ab8789a3f797e9dd4407589f41760c40325be57
+Status: Downloaded newer image for tomcat:9
+The "tomcat" service specifies a port on the host. If multiple containers for this service are created on a single host, the port will clash.
+Creating docker-war_tomcat_1 ... 
+Creating docker-war_tomcat_2 ... 
+[1A[2KCreating docker-war_tomcat_2 ... [32mdone[0m[1B[2A[2KCreating docker-war_tomcat_1 ... [32mdone[0m[2B[8mha:////4H8/p4I8PAmGQSjdgW6TUI9kO/KiKofnpYDL5H75jbBEAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKBASSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAY5HnPb4AAAA=[0m[Pipeline] // ws
+[8mha:////4NlvPhWQzKD/zQ1WAg9hE0+ZzJQxtbxVQxAjoO/Dl82OAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiRYIGUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkF5qHPV+w9wn8LFvgAAAA==[0m[Pipeline] }
+[8mha:////4OOjd1EK90XXTHZBHSsQU9enbveJhzCt+Pmgb9OiR4+xAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiQKJBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAe9rl22w/MiPMJvgAAAA==[0m[Pipeline] // node
+[8mha:////4BFGXcxHNGNxBYMZcCwoeFNxCJg6ZXG2Aan9sYpCbjjGAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIRUkSDqNJaaXiBiQ/jxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgRI80WIqdFd6NJi8xcRiujifR80V0TJEdihanljU2C7acEJYUJawkbJA6x9GSSbCVvXqoyiky1TmF/B0llFbf4QmFzOakQvrCHGB3G3Vk+nn+CmD2PkF5qHPt6w84H7FPvgAAAA==[0m[Pipeline] }
+[8mha:////4BDTrzP76yF7OEtU6GrAbRay6PORlhoTRryz1sZP9iOvAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKBBqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAe9rm2uw8+WYkavgAAAA==[0m[Pipeline] // stage
+[8mha:////4Er/jp9Q52BBIdruEkg9Qv6/4WsWhoaFJoIKe5gsZ25EAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6JsJMY4uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8AIJKxPr0AAAA=[0m[Pipeline] }
+
+[8mha:////4Eoup3OsZ9EwRjI0RnRhU+MGMaRVPPjx93qISQhRm5pBAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSRIICUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkG5P+Sq6w+3mndlvgAAAA==[0m[Pipeline] }
+[8mha:////4AhdJb3G/CG7V8aiVD04bFfIFlO+M/di5S32ljC/F8UOAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigYSQUCpayw0vMIkxTqy7YDs4FS/ia/wBi0hUbLHa2WZeb1gGDzV7g52m3lJoLA5uNHlhYt9fHSfs+IINU2CnUeokudWnGSVHDXOKEhYCVpoax8GSibAWnXqoyiky1Tn6/B0FlLa9wxMKkc1R+fiFycPmNraB6ef5K4BpGCKU+0Ou3fYD9Bgm474AAAA=[0m[Pipeline] // ws
+[8mha:////4FZYxlkdNXCIyZzGzxKuTvrqeT/E9sipXy7auPOlRuP2AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiUYAQSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryd8i13X8Anw4LQb4AAAA=[0m[Pipeline] }
+[8mha:////4MNUl8mwVG5AoX93xkUYNQJYfnfn/PA5Xe7nsHeVm3BbAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCoKBAqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAetrl2+w/6kB7HvgAAAA==[0m[Pipeline] // node
+[8mha:////4JWsqWU94Rk3yR7omd3epFedDQ0Hls3giZEEE3O5Pv3XAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiVCAhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AEUyb2wvgAAAA==[0m[Pipeline] }
+[8mha:////4AvtnCVSIJdo2qNYa4GHFyr7SEXTPgvL97IOkewnWRxTAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaFIgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyjrQ659/QErppamvgAAAA==[0m[Pipeline] // stage
+[8mha:////4AfjZXgo7QLw0ni9TxXAjUPEO7eUkKuqBkyFvAN2TxjsAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiiIICUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkF52Oeq6w+70KmEvgAAAA==[0m[Pipeline] }
+Digest: sha256:cd9d4b7e2493d4f26b99c8475ab8789a3f797e9dd4407589f41760c40325be57
+Status: Downloaded newer image for tomcat:9
+The "tomcat" service specifies a port on the host. If multiple containers for this service are created on a single host, the port will clash.
+Creating docker-war_tomcat_1 ... 
+Creating docker-war_tomcat_2 ... 
+[2A[2KCreating docker-war_tomcat_1 ... [32mdone[0m[2B[1A[2KCreating docker-war_tomcat_2 ... [32mdone[0m[1B
+[8mha:////4K13nT1KmcztKGm3NvF8uVpdGQB1wCYn8f3GE7j0Jfl2AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgKBAqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAedrm2+w8iF/41vgAAAA==[0m[Pipeline] }
+[8mha:////4DwpSdTweCGSDRMkgY7g0AvSfdZjD9xos6LdWPbUsrCbAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIpUESBqNJaaXiBiQ/jxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgRI80WIqdFd6NJi8xcRiujifR80V0TJEdihanljU2C7acEJYUJawkbJA6x9GSSbCVvXqoyiky1TmF/B0llFbf4QmFzOakQvrCHGB3G3Vk+nn+CmD2PkF5qHPt6w89latnvgAAAA==[0m[Pipeline] // ws
+[8mha:////4JNPYV1Hc8UBFOyKSigJTdGJCr4R3hmev3CobUtFCJY0AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgKBAqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAe9rm2uw8F1ziWvgAAAA==[0m[Pipeline] }
+[8mha:////4AgxzOV80FR374ocUo0CEJazpzn2G0Nbh1SQeP0c/OHwAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIaQUiCqtlYYXmNgYJ9adsR2SihfxNf6ARSQqtljtbDOvN6xjgBMHg72mwVLsLHo3mrxw4jBcHU/Y8wU7pshOY6unlpVuFmw5aVhSlLASsNHUOY6WTIKt6OVDVk6Sqc4p5O8ooLTqDk8oRDYnGdIX5gC726gi08/zVwCz9wnKus61P3wA4TV/RL4AAAA=[0m[Pipeline] // node
+[8mha:////4FhWrYQVIBVkdiv0/GIE/2ABlYx3elTG/vhzkiZ9AoOVAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCaEBCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDuD7l22w8tQ0SyvgAAAA==[0m[Pipeline] }
+[8mha:////4H1u9np4I2NNwvwmdEaAirrgmQnc8Y3WRCnLw4TcnuvdAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKhQhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJygPda59/QHve+krvgAAAA==[0m[Pipeline] // stage
+[8mha:////4G83MgpU3QzVxVKmOv48ssu82vHZJMScNv0neJcqJL0aAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICVEgoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcrDNtdu/wFGg3xtvgAAAA==[0m[Pipeline] }
+[8mha:////4GYwo+eplPZo2Zw1IyWQ4Axrkl3eD3GTI1Q3bJdzmZ/ZAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRBRISoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN9vBdnuA2tjLb+9AAAA[0m[Pipeline] // parallel
+[8mha:////4OXekrrA14RUI7LJhBnBHpf20A1XY72j5xayj+wAqwSaAAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREAUSoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN9vBdnuAy0pio+9AAAA[0m[Pipeline] }
+[8mha:////4J2VlrzEDh7pj6cY7BCjqypil5+f2m7Bss6wv2JB2q/pAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IMLCbGybVh8Qsq1Fpo3sP2IUx+kb/mP0gkcfJO95zlvN5Yp4gjR6daS52nVHvVh8HNT40cu2vgUbV8UTVT4mBVZceKG3tasGKxWJblWGlsLNWBkycn2OrWPEwRDLniLHF2B43cN3c8kem5LCbKF6aI3W1oEtOv8zeAqe8F+b4UZOUHPpWOLL0AAAA=[0m[Pipeline] // stage
+[8mha:////4FV2MprmVcoff4s+Jx2++5VSzUrGp14ihW2rIwpblT/9AAAApB+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKREAUSoqK10vACkxjjxLoL9oWk4kV8jT8QEYmKrXammdcbyxRx5OhUY6n1lCqvutC76amBY3sNPKiGL6piShysKu1Qcm1PM5YsFvOyHAuNlaUqcPLkBGvdmIcpgiFXnCVO7qCR+/qOJzI9lcVE+cIYsbn1dWL6df4GMHadIN/vBNn2A7h5qem9AAAA[0m[Pipeline] End of Pipeline
+Finished: SUCCESS
